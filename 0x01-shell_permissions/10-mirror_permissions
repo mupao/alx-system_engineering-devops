@@ -1,2 +1,2 @@
 #!/bin/bash
-ln hello olleh
+ln -f olleh hello
